@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eFDcZSz8Dho=",
+  "dgSpecHash": "SCKH057blwU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\z1o2d\\source\\repos\\ChatBot_Cyber_Kai_Part1\\ChatBot_Cyber_Kai_Part1.csproj",
+  "projectFilePath": "C:\\Users\\z1o2d\\OneDrive\\Documents\\GitHub\\CyberSecurity-ChatBot-Part-1\\ChatBot_Cyber_Kai_Part1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\z1o2d\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\z1o2d\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
