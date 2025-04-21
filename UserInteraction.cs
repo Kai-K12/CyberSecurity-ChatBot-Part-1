@@ -110,6 +110,7 @@ namespace POE_Part1_Rough_V2
             {
                 Console.Clear();
                 ConsoleManager.DisplayAsciiArt();
+                ConsoleManager.ShowMainMenu(); // Add this line to redisplay the main menu
                 return false;
             }
 

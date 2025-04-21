@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatBot_Cyber_Kai_Part1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f8c3c25603edf0ee84da017b5f6908e47ca605b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c396bf1e85964774272c8d1234434790a82d38")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatBot_Cyber_Kai_Part1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatBot_Cyber_Kai_Part1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
